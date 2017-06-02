@@ -8,4 +8,4 @@ O usuário entra com o nome da cidade desejado e o número de dias pretendido.
 O sistema retorna uma lista de lugares separados por dia. Cada dia agrupa lugares próximos entre si. Cada dia é um cluster montado pelo algoritmo de Kmeans.
 ## Exemplo publicado
 O seguinte endereço web leva para uma versão em funcionamento dessa aplicação:
-<a href="http://siriusquare.esy.es/" target="_blank">http://siriusquare.esy.es/</a>
+<a href="http://siriusquare.esy.es/" target="blank">http://siriusquare.esy.es/</a>
